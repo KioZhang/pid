@@ -1,6 +1,30 @@
-pxfk2an8: 8 # 三路开关
-qbd7zi5w: 2 # 中控测试-单插
-uc3plpsh: 1 # 空调(C&F)
-y7etk6v3: 1 # 门磁
-usvkzkyn: 1 # 人体传感器
-dbnsk7wv: 1 # 三路调光开关
+开关:
+  - 三路开关: pxfk2an8
+  - 六路开关: zozi4kcuy29ld7dh
+  - 一路开关: 3cyzx1s9
+  - 一路通断器: lckatnnc
+  - 一路断路器:
+      id: sskm0rld
+      commit: 语音需要手动改名
+
+照明:
+  - 五路球泡灯: aapxekbm
+  - 一路调光开关: alaf9mbrrxxio8xg
+  - 3路调光开关: dbnsk7wv
+  - 2路调光器: kvanfju3
+
+插座:
+  - 单插: qbd7zi5w
+
+窗帘:
+  - 一路窗帘开关: erbrxo3u
+
+传感器:
+  - SOS紧急按钮: fod6ibas
+  - 水浸传感器: mxfe4y4e
+  - PIR人体传感器: usvkzkyn
+  - 门磁: y7etk6v3
+  - 烟雾报警器: w6c6xn3t
+  - 燃气: zesyfsef
+  - 温湿度: mi4onu5n
+  - 温湿度(支持温标): xnjpasw1agf2x9qg
